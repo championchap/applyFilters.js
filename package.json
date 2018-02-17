@@ -5,5 +5,8 @@
   "main": "src/applyFilters.js",
   "author": "Erik Watson",
   "license": "MIT",
-  "scripts": {}
+  "scripts": {},
+  "devDependencies": {
+    "jest": "^22.3.0"
+  }
 }
