@@ -1,0 +1,9 @@
+{
+  "name": "applyFilters.js",
+  "version": "1.0.0",
+  "description": "Apply a set of filter functions to a dataset",
+  "main": "src/applyFilters.js",
+  "author": "Erik Watson",
+  "license": "MIT",
+  "scripts": {}
+}
