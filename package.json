@@ -4,6 +4,7 @@
   "description": "Apply a set of filter functions to a dataset",
   "main": "src/applyFilters.js",
   "author": "Erik Watson",
+  "repository": "git@github.com:championchap/applyFilters.js.git",
   "license": "MIT",
   "scripts": {
     "test": "./node_modules/.bin/jest"
