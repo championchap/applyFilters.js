@@ -1,5 +1,5 @@
 {
-  "name": "@erikwatson/applyFilters.js",
+  "name": "@erikwatson/applyFilters",
   "version": "1.0.0",
   "description": "Apply a set of filter functions to a dataset",
   "main": "src/applyFilters.js",
