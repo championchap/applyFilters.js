@@ -1,4 +1,4 @@
-# applyFilters
+# applyFilters.js
 
 This is simply a function that runs a list of filters against a list of
 _something_, returning the result.
